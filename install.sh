@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # This Code write by Mr.nope
+# Version: 1.4.1
 if [[ "$(id -u)" -ne 0 ]]; then
   echo "Please, Run This Programm as Root!"
   echo ""
