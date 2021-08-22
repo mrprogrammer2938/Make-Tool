@@ -19,7 +19,7 @@ help
 developer
 """
 opt = "\nPress Enter To " + Fore.GREEN + "Start..." + End
-opt_2 = Fore.YELLOW + "\nEnter: " + End
+opt_2 = Fore.YELLOW + "\nEnter Project Name: " + End
 Make_File_Version = "1.4.1"
 banner = Fore.CYAN + """
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
