@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # This Programm write by Mr.nope
-# ░▒▓█ Make-Tool █▓▒░ 1.4.1
+# ░▒▓█ Make-Tool █▓▒░ v1.4.1
 import os
 from time import sleep
 import sys
